@@ -1,6 +1,6 @@
 <br>
 
-# Amnic-Terraform
+# Terraform NginxServer
 
 - This is the terraform code for the Deployment of nginx Server. <br>
 - Its divided in 2 modules. Network and Compute. <br>
